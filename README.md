@@ -28,7 +28,7 @@
 ## Demo
 
 <div align="center">
-<video src="https://raw.githubusercontent.com/StrikeRobot/RoboNav/master/docs/demo/20260508-0739-36.3436604.mp4" controls style="max-width:100%"></video>
+<img src="docs/demo/robonav-demo.gif" alt="RoboNav Demo" width="100%">
 <br><br>
 <em>Drop waypoints on the map, dispatch a mission, and watch the robot navigate in real time over WebSockets</em>
 </div>
