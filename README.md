@@ -28,6 +28,11 @@
 ## Demo
 
 <div align="center">
+
+https://github.com/StrikeRobot/RoboNav/blob/master/docs/demo/20260508-0739-36.3436604.mp4
+
+<br>
+
 <img src="docs/demo/robonav-demo.gif" alt="RoboNav Demo" width="100%">
 <br><br>
 <em>Drop waypoints on the map, dispatch a mission, and watch the robot navigate in real time over WebSockets</em>
